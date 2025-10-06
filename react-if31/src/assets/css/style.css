@@ -1,0 +1,6 @@
+@import "tailwindcss";
+.bg-images{
+    background-image: url("../images/background-blur-bright-220067.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
