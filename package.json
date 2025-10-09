@@ -1,0 +1,30 @@
+{
+  "name": "react-if31-2025-2026-angkyadi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Let-sLearnCodingTogether/react-if31-2025-2026-angkyadi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Let-sLearnCodingTogether/react-if31-2025-2026-angkyadi/issues"
+  },
+  "homepage": "https://github.com/Let-sLearnCodingTogether/react-if31-2025-2026-angkyadi#readme",
+  "description": "",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "vite": "^7.1.9"
+  },
+  "dependencies": {
+    "axios": "^1.12.2"
+  }
+}

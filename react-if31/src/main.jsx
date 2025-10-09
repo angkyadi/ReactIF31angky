@@ -9,8 +9,6 @@ import Logo from './components/basic/logo/logo'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
 <Logo/>
-    <div>
     <Login/>
-    </div>
   </StrictMode>,
 )
